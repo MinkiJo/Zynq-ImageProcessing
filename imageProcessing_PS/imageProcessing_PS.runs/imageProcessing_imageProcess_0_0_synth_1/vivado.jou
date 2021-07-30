@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Jun  8 17:18:32 2021
+# Process ID: 12376
+# Current directory: C:/zyboz720/imageProcessing_PS/imageProcessing_PS.runs/imageProcessing_imageProcess_0_0_synth_1
+# Command line: vivado.exe -log imageProcessing_imageProcess_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source imageProcessing_imageProcess_0_0.tcl
+# Log file: C:/zyboz720/imageProcessing_PS/imageProcessing_PS.runs/imageProcessing_imageProcess_0_0_synth_1/imageProcessing_imageProcess_0_0.vds
+# Journal file: C:/zyboz720/imageProcessing_PS/imageProcessing_PS.runs/imageProcessing_imageProcess_0_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source imageProcessing_imageProcess_0_0.tcl -notrace
