@@ -34,5 +34,5 @@ modify **ip repo -> image_Processing -> conv.v**
 
 Tera Term : https://tera-term.softonic.kr/
 
-**Menu -> Log -> Binary -> format: bm**
+**Menu -> Log -> Binary -> format: bmp**
 
